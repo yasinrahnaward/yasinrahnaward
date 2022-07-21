@@ -38,23 +38,19 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <h3>Social Media</h3>
+   <h3>About: Y.Rahnaward</h3>
 </div>
----
+
 <div align="center" >
-: About Y.Rahnaward :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Afganistan.
-:telescope: I’m working as a Software Engineer and contributing to frontend web applications.
+I am a Front End Developer from Afganistan. I’m working as a Software Engineer and contributing to frontend web applications.
 
-
-:zap: In my free time, code + coffee .
-
-- :mailbox:How to reach me: <div id="badges" >
+ :mailbox:How to reach me: <div id="badges" >
   <a href="https://twitter.com/YRahnaward110">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
----
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -65,7 +61,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 <div align="center">
-: My Stats :
+  <h3>My Status</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yasinrahnaward&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinrahnaward&show_icons=true&theme=tokyonight)
