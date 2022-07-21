@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **yasinrahnaward/yasinrahnaward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,9 +37,10 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/YRahnaward110">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <h3>Social Media</h3>
 </div>
 ---
-
+<div align="center" >
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Afganistan.
 :telescope: I’m working as a Software Engineer and contributing to frontend web applications.
@@ -47,14 +48,14 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, code + coffee .
 
-- :mailbox:How to reach me: <div id="badges">
+- :mailbox:How to reach me: <div id="badges" >
   <a href="https://twitter.com/YRahnaward110">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+</div>
 ---
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -63,8 +64,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 ---
-
+<div align="center">
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yasinrahnaward&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinrahnaward&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinrahnaward&theme=tokyonight)
+</dive>
