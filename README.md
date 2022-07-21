@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 </div>
 ---
 <div align="center" >
-### :woman_technologist: About Me :
+: About Y.Rahnaward :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Afganistan.
 :telescope: I’m working as a Software Engineer and contributing to frontend web applications.
 
 
-- :zap: In my free time, code + coffee .
+:zap: In my free time, code + coffee .
 
 - :mailbox:How to reach me: <div id="badges" >
   <a href="https://twitter.com/YRahnaward110">
@@ -65,9 +65,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 <div align="center">
-### :fire: My Stats :
+: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yasinrahnaward&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinrahnaward&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinrahnaward&theme=tokyonight)
-</dive>
+</div>
