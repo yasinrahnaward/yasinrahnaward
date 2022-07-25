@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/YRahnaward110">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+<img src="https://komarev.com/ghpvc/?username=yasinrahnaward&style=flat-square&color=blue" alt=""/>
   <h3>Social Media</h3>
    <h3>About: Y.Rahnaward</h3>
 </div>
